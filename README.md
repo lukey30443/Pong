@@ -36,5 +36,6 @@ Welcome to the Pong Game! This is a simple two-player Pong game where you can pl
 ## Credits
 
 - This Pong game was created using JavaScript and HTML.
-- Check out my linktree for more info and more upcoming games! [LinkTree](https://linktr.ee/lukeee3)
+- Check out my LinkTree for more info and more upcoming games! [LinkTree](https://linktr.ee/lukeee3)
+  
 Enjoy playing the Pong game, and have fun trying to beat the AI opponent!
