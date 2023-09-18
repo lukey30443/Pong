@@ -27,6 +27,16 @@ Welcome to the Pong Game! This is a simple two-player Pong game where you can pl
 6. **Restarting the Game:**
    - To restart the game, you can simply refresh the web page in your browser.
 
+## Issues?
+
+- If there are any issues try trouble shooting these things: 
+
+- Test in Different Browsers: Try running the game in different web browsers to see if the issue is specific to a particular browser. Sometimes, browser-specific behavior can affect mouse input.
+
+- Browser Extensions: Some browser extensions or plugins can interfere with mouse input on web pages. Try disabling browser extensions temporarily to see if they are causing the issue.
+
+- JavaScript Errors: Check the browser console for any JavaScript errors or warnings. If there are any errors related to the game's JavaScript code, they may be preventing proper execution.
+
 ## Gameplay Tips
 
 - Try to predict the ball's movement and position your paddle to intercept it.
